@@ -77,4 +77,4 @@ uv run nerd_life.py --icons nerd --refresh-icons
 
 ## License
 
-Add a license file before publishing (MIT is a common choice for small utilities).
+MIT
